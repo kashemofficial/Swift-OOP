@@ -1,9 +1,6 @@
-//
 //  main.swift
-//  oop
-//
 //  Created by Abul Kashem on 6/11/22.
-//
+
 
 import Foundation
 
