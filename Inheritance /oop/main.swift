@@ -2,7 +2,7 @@ import Foundation
 
 //MARK: SubClass
 
-/*class Student{
+class Student{
     var stName : String!
     var roll : Int!
     init(stName: String!, roll: Int!) {
@@ -23,7 +23,7 @@ class Display : Student{
 }
 
 let ans = Display()
-ans.Answer()*/
+ans.Answer()
 
 //MARK: Method Overriding
 
